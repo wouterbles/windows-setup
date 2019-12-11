@@ -1,0 +1,13 @@
+spotify
+google-chrome
+vlc
+google-backup-and-sync
+whatsapp
+adobe-reader
+authy
+bitwarden
+calibre
+deluge
+logitech-options
+visual-studio-code
+7zip
